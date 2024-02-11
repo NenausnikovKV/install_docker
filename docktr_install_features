@@ -1,1 +1,2 @@
+# After default docker-desktop install for terminal docker install docker-ce 
 sudo apt-get install docker-ce
